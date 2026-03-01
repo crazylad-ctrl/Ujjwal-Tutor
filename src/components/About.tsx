@@ -59,7 +59,11 @@ const About = () => {
                   <li className="flex items-start gap-2">
                     <span className="text-primary mt-0.5">▸</span>
                     • Gandaki Boarding School *SEE*
-                    • Kathmandu Model Secondary School *SLC*
+                 
+                  </li>
+                    <li className="flex items-start gap-2">
+                    <span className="text-primary mt-0.5">▸</span>
+               • Kathmandu Model Secondary School *SLC*
                   </li>
                 </ul>
               </div>
