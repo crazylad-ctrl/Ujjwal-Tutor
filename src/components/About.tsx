@@ -4,7 +4,7 @@ import { GraduationCap, Users, Award, Globe } from "lucide-react";
 const stats = [
   { icon: Users, value: "2,500+", label: "Students Guided" },
   { icon: Globe, value: "2,000+", label: "AI Community Members" },
-  { icon: GraduationCap, value: "3.75", label: "SEE GPA" },
+  { icon: GraduationCap, value: "3.9", label: "SLC GPA" },
   { icon: Award, value: "10+", label: "Awards & Wins" },
 ];
 
@@ -49,6 +49,11 @@ const About = () => {
                   <li className="flex items-start gap-2">
                     <span className="text-primary mt-0.5">▸</span>
                     GPA 3.91/4.00 – Grade 11 
+
+                  </li>
+                    <li className="flex items-start gap-2">
+                    <span className="text-primary mt-0.5">▸</span>
+                    
                     GPA 3.9 /4.00 – Grade 12
                   </li>
                   <li className="flex items-start gap-2">
@@ -74,6 +79,8 @@ const About = () => {
                   "Volunteer – TEDxBaneshwor (1st & 2nd Edition)",
                   "Scout Captain (1 year)",
                   "Won multiple web dev & astro-writing competitions",
+          
+                  "Runner UP,Cyber Olympaid Nationals)",
                 ].map((item, i) => (
                   <li key={i} className="flex items-start gap-2">
                     <span className="text-accent mt-0.5">▸</span>
