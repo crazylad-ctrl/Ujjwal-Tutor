@@ -48,11 +48,13 @@ const About = () => {
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary mt-0.5">▸</span>
-                    GPA 3.4/4.00 – Grade 11 Pre-Board
+                    GPA 3.91/4.00 – Grade 11 
+                    GPA 3.9 /4.00 – Grade 12
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary mt-0.5">▸</span>
-                    Gandaki Boarding School • Kathmandu Model Secondary School
+                    • Gandaki Boarding School *SEE*
+                    • Kathmandu Model Secondary School *SLC*
                   </li>
                 </ul>
               </div>
